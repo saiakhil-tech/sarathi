@@ -1,116 +1,87 @@
 # 🚨 SARATHI — Emergency Navigation System
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:8b0000,100:000000&height=200&section=header&text=SARATHI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-<h2 align="center">🚑 Saving Time. Saving Lives. Saving Roads.</h2>
-
-<p align="center">
-  <strong>SARATHI</strong> is an AI-powered emergency navigation and coordination platform designed to help ambulance, police, fire services, hospitals, and traffic authorities respond faster, coordinate smarter, and navigate safer.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:8b0000,100:000000&height=220&section=header&text=SARATHI&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Emergency%20Navigation%20%26%20Response%20Coordination&descAlignY=62&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=AI-Powered+Emergency+Routing;Real-Time+Ambulance+Tracking;Smart+Hospital+Selection;Green+Corridor+Automation;Voice-Assisted+Navigation;Emergency+Response+Coordination" />
+  <strong>🚑 Saving Time • 🧠 Smarter Decisions • 🚦 Better Coordination • 🏥 Faster Emergency Response</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=FF3B30&center=true&vCenter=true&width=900&lines=AI-Powered+Emergency+Routing;Real-Time+Emergency+Tracking;Smart+Hospital+Selection;Green+Corridor+Coordination;Voice-Assisted+Navigation;Intelligent+Emergency+Response" />
+</p>
+
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</p>
+
+<p align="center">
+
+![Google Maps](https://img.shields.io/badge/Google_Maps-API-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI-purple?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State-black?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel&logoColor=white)
+
 </p>
 
 ---
 
-# 🚨 About SARATHI
+# 🚨 Overview
 
-Every second matters during an emergency.
+**SARATHI** is an AI-powered emergency navigation and response coordination platform designed to connect:
 
-Traditional navigation systems are primarily designed to move people from one location to another. Emergency response requires much more than navigation.
+- 🚑 Ambulance & emergency vehicles
+- 🏥 Hospitals
+- 👮 Police & traffic authorities
+- 🚒 Fire services
+- 🤖 AI-powered decision support
+- 🗺️ Intelligent navigation
+- 📍 Real-time tracking
 
-Emergency responders need to know:
+SARATHI is designed around one simple principle:
 
-- 🚑 Which route is fastest?
-- 🚦 Where is traffic blocking the emergency vehicle?
-- 🏥 Which hospital is most suitable?
-- 🛏️ Does the hospital have available beds?
-- 🧑‍⚕️ Does the hospital support the required specialty?
-- 🚨 Can traffic authorities create an emergency corridor?
-- 📍 Where is the emergency vehicle right now?
-- ⏱️ What is the current ETA?
-- 🎙️ Can the driver interact without touching the device?
+> **Every second matters during an emergency.**
 
-**SARATHI brings these capabilities together into one intelligent emergency response platform.**
+Traditional navigation systems mainly answer:
 
-> **SARATHI doesn't just navigate the emergency vehicle — it coordinates the emergency journey.**
+> **"How do I get from Point A to Point B?"**
 
----
-
-# ✨ Key Features
-
-## 🗺️ AI-Powered Emergency Routing
-
-SARATHI analyzes available routes and provides intelligent route recommendations for emergency vehicles.
-
-### Features
-
-- 🚦 Real-time traffic analysis
-- 🛣️ Multiple route comparison
-- 🤖 AI-powered route analysis
-- 🔄 Alternative route suggestions
-- ⏱️ Dynamic ETA calculation
-- 🚑 Emergency vehicle navigation
-- 📍 Live route updates
+SARATHI goes further by combining navigation, traffic intelligence, hospital selection, emergency coordination, live tracking, and AI-assisted decision support.
 
 ---
 
-## 🏥 Smart Hospital Network
+# ❗ Problem
 
-Instead of simply finding the nearest hospital, SARATHI helps identify the most appropriate hospital for the emergency.
+Emergency response is a distributed and time-critical problem.
 
-### Hospital selection considers
-
-- 📍 Distance
-- 🛏️ Bed availability
-- 🧑‍⚕️ Medical specialties
-- 🚑 Emergency capabilities
-- 🚦 Current traffic
-- ⏱️ Estimated arrival time
-- 🏥 Hospital availability
-
-### Goal
-
-> **Find the hospital that can receive the emergency patient as quickly and appropriately as possible.**
-
----
-
-# 🚦 Green Corridor
-
-SARATHI introduces an emergency traffic coordination concept designed to help emergency vehicles move through congested roads.
+A single emergency may require coordination between several independent systems:
 
 ```text
-🚑 Emergency Vehicle
-        │
-        ▼
-📍 Current Location
-        │
-        ▼
-🗺️ Emergency Route
-        │
-        ▼
-🚦 Traffic Analysis
-        │
-        ▼
-🚨 Green Corridor Request
-        │
-        ▼
-👮 Traffic / Police Coordination
-        │
-        ▼
-🚦 Emergency Corridor
-        │
-        ▼
-🚑 Faster Emergency Movement
+                         🚨 EMERGENCY
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+           🚑 Driver       🏥 Hospital      👮 Police
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                              ▼
+                         🧠 SARATHI
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+          🗺️ Routing       🚦 Traffic      📍 Tracking
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                              ▼
+                         🏥 Destination
